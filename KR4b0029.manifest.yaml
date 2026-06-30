@@ -1,0 +1,73 @@
+canonical_identifier: bkk:krp/KR4b0029/v1
+canonical_location: https://kanripo.org/bkk/KR4b0029/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傅咸集三卷
+  identifiers:
+    krp: KR4b0029
+  tags:
+    kr-categories: KR4b
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0029.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR4b0029_001.yaml, hash: 'sha256:01898b4a2a9c7f9150c6fe83ab151c75b66f1b0c747e05bd690a8aeb87a46c26'}
+  - {seq: 2, filename: KR4b0029_002.yaml, hash: 'sha256:589a4b51b58217d94651db17587edaf157b8ec668fd690e324924a3b3548f7d3'}
+  - {seq: 3, filename: KR4b0029_003.yaml, hash: 'sha256:eaec63f66d3b154c3778aba54c96ddd1ffdfb1f32bb331dec6397439336efd20'}
+  - {seq: 4, filename: KR4b0029_004.yaml, hash: 'sha256:50d45d475b496be376789ab68352422171bf95546114d00e8e39a19fb46af727'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4b0029_001.markers.yaml, hash: 'sha256:4e8f7130a20ef30da4a6681852cd40f761eba9f5c8ddf208a7d64b62f65b1ee0'}
+  - {seq: 2, role: markers, filename: assets/KR4b0029_002.markers.yaml, hash: 'sha256:c7d77857b1233bfbc2b927b0213e6b42fe663944468804fd0c1bbd33c3dce0f9'}
+  - {seq: 3, role: markers, filename: assets/KR4b0029_003.markers.yaml, hash: 'sha256:3c61691f4b1de7652b5f2db70453242e2df5f1d3eda5d9ff7d4f79453c240a9e'}
+  - {seq: 4, role: markers, filename: assets/KR4b0029_004.markers.yaml, hash: 'sha256:74b2980631f1f20a78f36e36c03e9ae86911adcdbc3050d503494c094d64968c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4b0029_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1495
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4b0029_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 6076
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4b0029_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 6305
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4b0029_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 249
+  label: 附錄
+  type: section
+  level: 1
+hash: sha256:58268bd69dbc64ec629ecee0abf60b179d687218a9553904dfd8649738d38f82
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

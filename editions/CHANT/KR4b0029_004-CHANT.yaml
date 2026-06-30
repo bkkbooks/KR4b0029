@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0029/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附錄詩并序詩并序楊駿就吾索詩云茅文通相說文動為規藏可盡送便作此詩欲其有悟然猶有慮以示文通曰得無作唯此白鶴直為罵可君此遠有文義故欲令兄見之唯此白鶴者良冀臨池而中有鶴白令子崔瑋為賦指以罵冀遂并文與駿寂然云不知多務不省也將如搔膇自無覺也詩曰肅肅商風起悄悄心自悲圓圓三五月皎皎曜清暉今昔一何盛氛氳自消微微黃黃及華飄搖隨風飛鳴沙石室佚書修文殿御覽又御覽四引輝一韻贈郭泰機詩贈郭泰機詩素絲豈不絜寒女難為容文選二十五答傅咸詩注貧寒猶手拙操杼安能工同上詩詩淫雨彌旬日河流若奔渠書鈔百五十一春敷和氣百鳥鳴書鈔百五十四
+  hash: sha256:a58ef2a5282a355a4120633326a4f68abe296da3519a81854280dca53be01bc7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0029_CHANT_004-1a.1-h}
+metadata:
+  title: 傅咸集三卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0029.xml
+hash: sha256:383a41d5a0e96e162da4cbac16ca7531fb8209a876e986a296d306fa6adfd0f7
